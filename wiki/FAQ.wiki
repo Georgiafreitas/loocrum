@@ -22,6 +22,7 @@ Sendo assim nunca existirá uma versão final, pois sempre teremos novas funcion
  
 
 *O Loocrum será sempre gratuito?*
+
 Sim, o projeto não tem itenção nenhuma de cobrar o uso de seus usuários, se houver a necessidade de arrecagar dinheiro com o projeto para poder mantê-lo e cobrir seus custos, isso será feito de inúmeras formas, mas jamais com a cobrança do serviço.
 
 
