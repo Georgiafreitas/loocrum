@@ -1,0 +1,33 @@
+**Como enviar uma mensagem de dúvida, sugestão ou pedir uma funcionalidade?**
+
+Envie sua dúvida, sugestão ou crítica ao projeto e assim ajude a melhorar o Loocrum.
+Entre na página de **Ajuda** e faça sua pergunta ou mande sua sugestão de funcionalidade.
+
+
+
+
+**Como faço para participar do projeto?**
+
+Nosso projeto de um grupo de email para os desenvolvedores, colaboradores e pessoas que queiram acompanhar mais de perto todo o processo de desenvolvimento: http://groups.google.com/group/loocrum
+
+Solicite seu cadastro informando como ficou sabendo do projetoe qual é sua intenção em participar. Seu cadastro será aceito e conforme sua participação no grupo seja ativa e produtiva você poderá ser cadastrado como desenvolvedor e poderá começar assumir tarefas no projeto.
+
+
+
+**Por que o Loocrum é beta? Terá uma versão final?**
+
+O conceito de beta aplicado ao Loocrum é simples, nosso projeto esta em constante desenvolvimento, sempre adicionando novas funcionalidades, corrigindo bugs, melhorando a interação com os usuários e esse será sempre o fluxo de desenvolvimento do projeto.
+
+Sendo assim nunca existirá uma versão final, pois sempre teremos novas funcionalidades, ferramentos e melhorias para os usuários.
+
+
+
+**O Loocrum será sempre gratuito?**
+
+Sim, o projeto não tem itenção nenhuma de cobrar o uso de seus usuários, se houver a necessidade de arrecagar dinheiro com o projeto para poder mantê-lo e cobrir seus custos, isso será feito de inúmeras formas, mas jamais com a cobrança do serviço.
+
+
+
+Obrigado!
+
+Equipe Loocrum
